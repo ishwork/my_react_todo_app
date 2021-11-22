@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live DEMO
 
-The live demo of the project is available at [DEMO](https://github.com/ishwork/my_react_todo_app)
+The live demo of the project is available at [DEMO](https://ishwork-to-do-app.netlify.app/)
 
 ## Available Scripts
 
